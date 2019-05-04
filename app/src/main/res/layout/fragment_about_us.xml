@@ -32,7 +32,7 @@
         <ImageView
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-                android:src="@drawable/tony_stark_small"
+                android:src="@drawable/dsc_0554"
                 android:layout_gravity="center"
                 android:layout_centerHorizontal="true"
                 android:cropToPadding="true"
